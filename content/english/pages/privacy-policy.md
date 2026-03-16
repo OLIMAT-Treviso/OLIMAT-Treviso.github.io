@@ -49,7 +49,7 @@ Such information **is not collected by the website owner**, but may be automatic
 The website is hosted through the **GitHub Pages** service, which may manage technical logs necessary for the functioning and security of the infrastructure.  
 The source code of the website is public and freely accessible in the official repository available at the following address:
 
-https://github.com/INSERIRE-REPOSITORY
+https://github.com/OLIMAT-Treviso/OLIMAT-Treviso.github.io
 
 The publication of the source code serves transparency and documentation purposes and does not involve the collection of personal data from website users.
 

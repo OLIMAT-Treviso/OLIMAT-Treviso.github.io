@@ -49,7 +49,7 @@ Tali informazioni **non sono raccolte dal Titolare del sito**, ma possono essere
 Il sito è ospitato tramite il servizio **GitHub Pages**, che può gestire log tecnici necessari al funzionamento e alla sicurezza dell’infrastruttura.  
 Il codice sorgente del sito è pubblico e consultabile liberamente nella repository ufficiale disponibile al seguente indirizzo:
 
-https://github.com/INSERIRE-REPOSITORY
+https://github.com/OLIMAT-Treviso/OLIMAT-Treviso.github.io
 
 La pubblicazione del codice ha finalità di trasparenza e documentazione del progetto e non comporta in alcun modo la raccolta di dati personali degli utenti del sito.
 
