@@ -1,0 +1,50 @@
+{{ if hugo.IsMultilingual }}
+  {{ $class := .Class }}
+  {{ $context := .Context }}
+  {{ $pageLang := $context.Lang }}
+  {{ $pageTranslations := dict }}
+
+  {{ range site.Home.AllTranslations }}
+    {{ $pageTranslations = merge $pageTranslations (dict .Language.Lang .RelPermalink) }}
+  {{ end }}
+
+  {{ range $context.AllTranslations }}
+    {{ $pageTranslations = merge $pageTranslations (dict .Language.Lang .RelPermalink) }}
+  {{ end }}
+
+  <div class="language-switcher {{ $class }}">
+    <label for="language-switcher" class="sr-only">
+      {{ i18n "languageSwitcher" | default "Language selector" }}
+    </label>
+
+    <div class="language-switcher__inner">
+      <select
+        id="language-switcher"
+        class="language-switcher__select"
+        onchange="if (this.value) window.location.href = this.value"
+        aria-label="{{ i18n "languageSwitcher" | default "Language selector" }}">
+        {{ range site.Languages }}
+          {{ $link := index $pageTranslations .Lang }}
+          {{ if $link }}
+            <option
+              value="{{ $link }}"
+              {{ if eq .Lang $pageLang }}selected{{ end }}>
+              {{ upper .Lang }}
+            </option>
+          {{ end }}
+        {{ end }}
+      </select>
+
+      <span class="language-switcher__icon" aria-hidden="true">
+        <svg viewBox="0 0 20 20" fill="none" width="12" height="12">
+          <path
+            d="M5 7.5L10 12.5L15 7.5"
+            stroke="currentColor"
+            stroke-width="1.8"
+            stroke-linecap="round"
+            stroke-linejoin="round" />
+        </svg>
+      </span>
+    </div>
+  </div>
+{{ end }}

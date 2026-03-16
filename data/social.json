@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "email",
+      "icon": "fa-solid fa-envelope",
+      "link": "mailto:roberta.pulit@liceodavinci.tv"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fa-brands fa-linkedin",
+      "link": "https://www.linkedin.com/in/roberta-pulit/"
+    },
+    {
+      "name": "github",
+      "icon": "fa-brands fa-github",
+      "link": "https://github.com"
+    }
+  ]
+}

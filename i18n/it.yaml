@@ -1,0 +1,28 @@
+home: Home
+read_more: Leggi tutto
+send: Invia
+related_posts: Post simili
+categories: Categorie
+tags: Tags
+toc: Indice
+share: Condividi
+
+search_input_placeholder: Cerca...
+search_no_results: Nessun risultato per
+search_initial_message: Scrivi qualcosa per cercare...
+search_navigate: per muoverti
+search_select: per selezionare
+search_close: per chiudere
+
+contact_name: Nome Completo
+contact_email: E-mail lavorativa
+contact_message: Scrivi qui il tuo messaggio
+
+website_authors: Referente
+
+build_hugo: 💻 Realizzato con [Hugo](https://gohugo.io/)
+
+announcement_content: "<span class='text-center block'>🏆 Cerimonia di Premiazione · 15 Maggio 2026 · <a class='underline font-semibold' href='/notizie/15-05-26_cerimonia_distrettuale' rel='noopener'>Scopri i dettagli</a> 🏆</span>"
+
+cookie_content: Questo sito utilizza cookie tecnici. Continuando la navigazione, accetti il loro uso.
+cookie_button: Accetto

@@ -1,0 +1,161 @@
+# ============ ENGLISH ============ #
+
+# ============ Main Menu ============ #
+[[main]]
+name = "Topics"
+weight = 1
+
+[[main]]
+name = "Materials"
+weight = 2
+
+[[main]]
+name = "Preparation"
+weight = 3
+
+[[main]]
+name = "Resources"
+weight = 4
+
+[[main]]
+name = "News"
+url = "/notizie"
+weight = 5
+
+# ============ Dropdown | Topics ============ #
+[[main]]
+parent = "Topics"
+name = "Syllabus"
+url = "/argomenti/syllabus"
+weight = 1
+
+[[main]]
+parent = "Topics"
+name = "Combinatorics and Probability"
+url = "/argomenti/combinatoria-probabilita"
+weight = 2
+
+[[main]]
+parent = "Topics"
+name = "Number Theory"
+url = "/argomenti/teoria-numeri"
+weight = 3
+
+[[main]]
+parent = "Topics"
+name = "Algebra"
+url = "/argomenti/algebra"
+weight = 4
+
+[[main]]
+parent = "Topics"
+name = "Geometry"
+url = "/argomenti/geometria"
+weight = 5
+
+[[main]]
+parent = "Topics"
+name = "Techniques and Cross-Topic Methods"
+url = "/argomenti/tecniche-strategie"
+weight = 6
+
+
+# ============ Dropdown | Materials ============ #
+[[main]]
+parent = "Materials"
+name = "Prof. Callegari's Course"
+url = "/materiali/corso-callegari"
+weight = 1
+
+[[main]]
+parent = "Materials"
+name = "Prof. Gobbino's Olympic Training"
+url = "/materiali/training-olimpico-gobbino"
+weight = 2
+
+[[main]]
+parent = "Materials"
+name = "Prof. Archetti's Materials"
+url = "/materiali/materiale_archetti"
+weight = 3
+
+[[main]]
+parent = "Materials"
+name = "Senior Stage Lessons"
+url = "/materiali/lezioni-stage-senior"
+weight = 4
+
+
+# ============ Dropdown | Preparation ============ #
+[[main]]
+parent = "Preparation"
+name = "How to Start"
+url = "/start-here"
+weight = 1
+
+[[main]]
+parent = "Preparation"
+name = "Training Camps"
+url = "/preparazione/stage"
+weight = 2
+
+[[main]]
+parent = "Preparation"
+name = "Mathematics Teams"
+url = "/preparazione/squadre-matematica"
+weight = 3
+
+
+# ============ Dropdown | Resources ============ #
+[[main]]
+parent = "Resources"
+name = "National Olympiads"
+url = "/risorse/progetto-olimpiadi-matematica"
+weight = 1
+
+[[main]]
+parent = "Resources"
+name = "International Olympiads"
+url = "/risorse/olimpiadi-internazionali"
+weight = 2
+
+[[main]]
+parent = "Resources"
+name = "Mathematics Notebook (Mathesis)"
+url = "/risorse/quaderno-matematica-mathesis"
+weight = 3
+
+[[main]]
+parent = "Resources"
+name = "OliForum"
+url = "/risorse/oliforum"
+weight = 4
+
+[[main]]
+parent = "Resources"
+name = "U Math Series"
+url = "/risorse/collana-u-math"
+weight = 5
+
+[[main]]
+parent = "Resources"
+name = "AoPS"
+url = "/risorse/aops"
+weight = 6
+
+
+# ============ Footer ============ #
+[[footer]]
+name = "Terms of Service"
+url = "/terms-of-service"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Cookie Policy"
+url = "/cookie-policy"
+weight = 3

@@ -1,0 +1,28 @@
+home: Home
+read_more: Read More
+send: Send
+related_posts: Related Posts
+categories: Categories
+tags: Tags
+toc: Table of Contents
+share: Share
+
+search_input_placeholder: Search Post...
+search_no_results: No results for
+search_initial_message: Type something to search..
+search_navigate: to navigate
+search_select: to select
+search_close: to close
+
+contact_name: Full Name
+contact_email: Working E-mail
+contact_message: Write here your message
+
+website_authors: Coordinator
+
+build_hugo: 💻 Powered by [Hugo](https://gohugo.io/)
+
+announcement_content: "<span class='text-center block'>🏆 Award Ceremony · 15 May 2026 · <a class='underline font-semibold' href='/en/notizie/15-05-26_cerimonia_distrettuale' rel='noopener'>Learn more</a> 🏆</span>"
+
+cookie_content: This site uses technical cookies. By continuing to use this website, you agree to their use.
+cookie_button: I Accept

@@ -1,0 +1,161 @@
+# ============ ITALIAN ============ #
+
+# ============ Main Menu ============ #
+[[main]]
+name = "Argomenti"
+weight = 1
+
+[[main]]
+name = "Materiali"
+weight = 2
+
+[[main]]
+name = "Preparazione"
+weight = 3
+
+[[main]]
+name = "Risorse"
+weight = 4
+
+[[main]]
+name = "Notizie"
+url = "/notizie"
+weight = 5
+
+# ============ Dropdown | Argomenti ============ #
+[[main]]
+parent = "Argomenti"
+name = "Syllabus"
+url = "/argomenti/syllabus"
+weight = 1
+
+[[main]]
+parent = "Argomenti"
+name = "Combinatoria e Probabilità"
+url = "/argomenti/combinatoria-probabilita"
+weight = 2
+
+[[main]]
+parent = "Argomenti"
+name = "Teoria dei Numeri"
+url = "/argomenti/teoria-numeri"
+weight = 3
+
+[[main]]
+parent = "Argomenti"
+name = "Algebra"
+url = "/argomenti/algebra"
+weight = 4
+
+[[main]]
+parent = "Argomenti"
+name = "Geometria"
+url = "/argomenti/geometria"
+weight = 5
+
+[[main]]
+parent = "Argomenti"
+name = "Tecniche e Argomenti trasversali"
+url = "/argomenti/tecniche-strategie"
+weight = 6
+
+
+# ============ Dropdown | Materiali ============ #
+[[main]]
+parent = "Materiali"
+name = "Corso del prof. Callegari"
+url = "/materiali/corso-callegari"
+weight = 1
+
+[[main]]
+parent = "Materiali"
+name = "Training Olimpico del prof. Gobbino"
+url = "/materiali/training-olimpico-gobbino"
+weight = 2
+
+[[main]]
+parent = "Materiali"
+name = "Materiali della prof. Archetti"
+url = "/materiali/materiale_archetti"
+weight = 3
+
+[[main]]
+parent = "Materiali"
+name = "Lezioni Stage Senior"
+url = "/materiali/lezioni-stage-senior"
+weight = 4
+
+
+# ============ Dropdown | Preparazione ============ #
+[[main]]
+parent = "Preparazione"
+name = "Come iniziare"
+url = "/inizia-da-qui"
+weight = 1
+
+[[main]]
+parent = "Preparazione"
+name = "Stage"
+url = "/preparazione/stage"
+weight = 2
+
+[[main]]
+parent = "Preparazione"
+name = "Squadre di Matematica"
+url = "/preparazione/squadre-matematica"
+weight = 3
+
+
+# ============ Dropdown | Risorse ============ #
+[[main]]
+parent = "Risorse"
+name = "Olimpiadi Nazionali"
+url = "/risorse/progetto-olimpiadi-matematica"
+weight = 1
+
+[[main]]
+parent = "Risorse"
+name = "Olimpiadi Internazionali"
+url = "/risorse/olimpiadi-internazionali"
+weight = 2
+
+[[main]]
+parent = "Risorse"
+name = "Quaderno di matematica (Mathesis)"
+url = "/risorse/quaderno-matematica-mathesis"
+weight = 3
+
+[[main]]
+parent = "Risorse"
+name = "OliForum"
+url = "/risorse/oliforum"
+weight = 4
+
+[[main]]
+parent = "Risorse"
+name = "Collana U Math"
+url = "/risorse/collana-u-math"
+weight = 5
+
+[[main]]
+parent = "Risorse"
+name = "AoPS"
+url = "/risorse/aops"
+weight = 6
+
+
+# ============ Footer ============ #
+[[footer]]
+name = "Terms of Service"
+url = "/terms-of-service"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Cookie Policy"
+url = "/cookie-policy"
+weight = 3

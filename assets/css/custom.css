@@ -1,0 +1,101 @@
+/* Add your own custom styles here */
+.language-switcher {
+  position: relative;
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+.language-switcher__inner {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  background: transparent;
+}
+
+.language-switcher__select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: none;
+
+  width: auto;
+  min-width: 0;
+  height: 2.5rem;
+  padding: 0 1.9rem 0 0.75rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  border-radius: 9999px;
+  background-color: transparent;
+  color: inherit;
+
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  cursor: pointer;
+
+  transition:
+    border-color 0.2s ease,
+    background-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.language-switcher__select:hover {
+  background-color: rgba(127, 127, 127, 0.08);
+  border-color: rgba(127, 127, 127, 0.4);
+}
+
+.language-switcher__select:focus {
+  outline: none;
+  border-color: rgba(127, 127, 127, 0.5);
+  box-shadow: 0 0 0 3px rgba(127, 127, 127, 0.12);
+}
+
+.language-switcher__icon {
+  pointer-events: none;
+  position: absolute;
+  right: 0.72rem;
+  top: 50%;
+  transform: translateY(-50%);
+  display: inline-flex;
+  opacity: 0.75;
+}
+
+/* Hide the extra arrow in old IE / Edge legacy */
+.language-switcher__select::-ms-expand {
+  display: none;
+}
+
+/* Optional: slightly improve native dropdown colors where supported */
+.language-switcher__select option {
+  color: #111;
+  background-color: #fff;
+}
+
+.dark .language-switcher__select {
+  border-color: rgba(255, 255, 255, 0.14);
+}
+
+.dark .language-switcher__select:hover {
+  background-color: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.24);
+}
+
+.dark .language-switcher__select:focus {
+  border-color: rgba(255, 255, 255, 0.28);
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.08);
+}
+
+.dark .language-switcher__select option {
+  color: #fff;
+  background-color: #111;
+}
+
+.language-switcher__select {
+  width: 4.25rem;
+  padding-left: 0.7rem;
+  padding-right: 1.8rem;
+}
