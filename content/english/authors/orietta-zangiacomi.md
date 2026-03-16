@@ -13,4 +13,4 @@ Former Mathematics teacher at the State Scientific High School "Leonardo da Vinc
 
 ---
 
-Former district coordinator for the Treviso district of the Mathematics Olympiad from July 2018 to July 2024 and curator of the previous Mathematics Olympiad website for the Treviso district.
+Former district coordinator for the Treviso district of the Mathematics Olympiad from 2018 to 2024 and curator of the previous Mathematics Olympiad website for the Treviso district.
