@@ -3,14 +3,14 @@ title: Pulit Roberta
 email: roberta.pulit@liceodavinci.tv
 image: "/image/roberta-pulit_resized.png"
 description: 
-# social:
-#   - name: e-mail
-#     icon: fa-solid fa-envelope
-#     link: mailto:roberta.pulit@liceodavinci.tv
+social:
+  - name: e-mail
+    icon: fa-solid fa-envelope
+    link: mailto:roberta.pulit@liceodavinci.tv
 
-#   - name: linkedin
-#     icon: fa-brands fa-linkedin
-#     link: https://www.linkedin.com/in/roberta-pulit/
+  - name: linkedin
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/roberta-pulit/
 
 weight: 1
 ---
