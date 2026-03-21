@@ -15,7 +15,7 @@ social:
 weight: 1
 ---
 
-**District Coordinator** for the Province of Treviso of the Mathematics Olympiad (currently called the "Mathematics Championships").
+**District Coordinator** for the Province of Treviso of the Mathematics Olympiad.
 
 District Coordinator since July 2024.
 

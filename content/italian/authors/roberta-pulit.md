@@ -15,7 +15,7 @@ social:
 weight: 1
 ---
 
-**Referente Distrettuale** per la Provincia di Treviso delle Olimpiadi della Matematica (attualmente nominate "Campionati della Matematica").
+**Referente Distrettuale** per la Provincia di Treviso delle Olimpiadi della Matematica.
 
 Referente Distrettuale dal Luglio 2024.
 

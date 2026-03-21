@@ -8,7 +8,6 @@ social:
   #   icon: fa-solid fa-envelope
   #   link: mailto:orietta.zangiacomi@liceodavinci.tv 
 
-weight: 2
 ---
 
 Docente di Matematica e Fisica presso l'Istituto Superiore "Max Plank" di Villorba.

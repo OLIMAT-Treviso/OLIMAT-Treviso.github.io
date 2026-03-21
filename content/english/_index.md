@@ -11,7 +11,7 @@ banner:
 
 features:
   - title: "What are the Mathematics Olympiads?"
-    image: "/image/campionati-matematica.png"
+    image: "/image/il_sito.png"
     content: "The Mathematics Olympiads are a set of individual and team competitions promoted by the [**UMI (Italian Mathematical Union)**](https://umi.dm.unibo.it/) and organized across several levels: school, district, national, and international.<br><br>
     For the Treviso District, the pathway involves students from upper secondary schools and accompanies participants from the Archimedes’ Games up to, for the best performers, the National Final in Cesenatico and the subsequent selection paths for international competitions."
     button:
@@ -29,7 +29,7 @@ features:
       link: "/en/partecipare"
 
   - title: "Why this website?"
-    image: "/image/il_sito.png"
+    image: "/image/logo.png"
     content: "Schools are not always able to organize structured training paths for olympiad mathematics; often students receive only an initial introduction and must then explore many topics independently. At the same time, many students interested in the competitions do not know where to start or which materials to use to prepare effectively.<br><br>
     This website was created to provide a clear reference point for the Treviso District: it collects information about the competitions, suggests possible study paths, and points to useful materials for a progressive and sustainable preparation that can also be pursued individually.<br>
     The proposed guidance can be useful not only for **students** studying independently, but also for **teachers** who wish to organize training activities or olympiad mathematics programs in their schools."

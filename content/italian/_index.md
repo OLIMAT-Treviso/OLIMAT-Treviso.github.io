@@ -11,7 +11,7 @@ banner:
 
 features:
   - title: "Cosa sono i Campionati della Matematica?"
-    image: "/image/campionati-matematica.png"
+    image: "/image/il_sito.png"
     content: "I Campionati della Matematica sono un insieme di competizioni individuali e a squadre promosse dall’[**UMI (Unione Matematica Italiana)**](https://umi.dm.unibo.it/) e articolate su più livelli: scolastico, distrettuale, nazionale e internazionale.<br><br>
     Per il Distretto di Treviso il percorso coinvolge gli studenti delle scuole secondarie di secondo grado e accompagna i partecipanti dai Giochi di Archimede fino, per i migliori, alla Gara Nazionale di Cesenatico e ai successivi percorsi di selezione per le competizioni internazionali."
     button:
@@ -29,7 +29,7 @@ features:
       link: "/partecipare"
 
   - title: "Perché questo sito?"
-    image: "/image/il_sito.png"
+    image: "/image/logo.png"
     content: "Non sempre le scuole riescono a organizzare percorsi strutturati di preparazione alla matematica olimpica; spesso gli studenti ricevono solo un primo stimolo e devono poi approfondire molti temi in autonomia. Allo stesso tempo, molti ragazzi interessati alle gare non sanno da dove iniziare o quali materiali utilizzare per prepararsi in modo efficace.<br><br>
     Questo sito nasce per offrire un punto di riferimento chiaro per il Distretto di Treviso: raccoglie informazioni sulle gare, suggerisce possibili percorsi di studio e indica materiali utili per una preparazione progressiva e sostenibile anche individualmente.<br>
     Le indicazioni proposte possono essere utili non solo agli **studenti** che studiano autonomamente, ma anche ai **docenti** che desiderano organizzare attività di allenamento o percorsi di matematica olimpica nelle proprie scuole."
