@@ -1,7 +1,7 @@
 ---
 title: Martin Domenico
 # email: roberta.pulit@liceodavinci.tv
-image: "/images/avatar.png"
+image: "/image/domenico-martin_resized.png"
 description: 
 social:
   # - name: e-mail
