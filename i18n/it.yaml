@@ -26,3 +26,7 @@ announcement_content: "<span class='text-center block'>🏆 Cerimonia di Premiaz
 
 cookie_content: Questo sito utilizza cookie tecnici. Continuando la navigazione, accetti il loro uso.
 cookie_button: Accetto
+
+404_text: Pagina non trovata
+404_body: La pagina che stai cercando potrebbe essere stata rimossa, non disponibile o il suo nome potrebbe essere stato modificato.
+404_home: Torna alla Home

@@ -131,7 +131,7 @@ Ti consigliamo in particolare di iniziare dalle **lezioni 1, 2 e 3**.
 
 🎬 https://www.problemisvolti.it/CorsoBaseOlimpiadiMatematica.html
 
-Ulteriori informazioni le puoi trovare alla pagina dedicata [qui](/materiali/sito-callegari).
+Ulteriori informazioni le puoi trovare alla pagina dedicata [qui](/materiali/corso-callegari).
 
 #### Dispensa di approfondimento ed esercizi
 

@@ -9,6 +9,11 @@
       "name": "github",
       "icon": "fa-brands fa-github",
       "link": "https://github.com/OLIMAT-Treviso"
+    },
+    {
+      "name": "instagram",
+      "icon": "fa-brands fa-instagram",
+      "link": "https://www.instagram.com/olimpiadidellamatematica"
     }
   ]
 }
