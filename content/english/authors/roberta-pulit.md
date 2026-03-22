@@ -24,3 +24,5 @@ District Coordinator since July 2024.
 ---
 
 Teacher of Mathematics and Physics at the State Scientific High School "Leonardo da Vinci" in Treviso.
+
+roberta.pulit@liceodavinci.tv

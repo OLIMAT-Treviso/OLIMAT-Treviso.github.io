@@ -24,3 +24,5 @@ Referente Distrettuale dal Luglio 2024.
 ---
 
 Docente di Matematica e Fisica presso il Liceo Scientifico Statale "Leonardo da Vinci" di Treviso.
+
+roberta.pulit@liceodavinci.tv
