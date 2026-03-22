@@ -1,7 +1,7 @@
 ---
 title: Archetti Maria
 # email: orietta.zangiacomi@liceodavinci.tv
-image: "/images/avatar.png"
+image: "/image/maria-archetti_resized.png"
 description: 
 social:
   # - name: e-mail
