@@ -96,29 +96,25 @@ Gli strumenti principali riguardano:
 
 ### Da dove iniziare a prepararsi
 
-Molti degli argomenti di questa sezione **non fanno parte dei programmi scolastici standard**, ma compaiono molto spesso nelle gare di matematica.
+Gli argomenti di questa sezione (tecniche dimostrative e strategie logiche) **non sono generalmente trattati in modo esplicito nei programmi scolastici**, ma sono fondamentali nelle competizioni matematiche.
 
-A differenza di altre aree (come algebra o teoria dei numeri), **non esiste un ordine preciso con cui affrontarli**: si tratta di tecniche e idee che vengono utilizzate in molti contesti diversi.  
+A differenza delle aree “di contenuto”, si tratta di **strumenti trasversali**: la stessa tecnica può comparire in algebra, teoria dei numeri, combinatoria o geometria.
 
 {{< notice "tip" >}}
-Per questo motivo è utile **conoscerne il maggior numero possibile** e imparare a riconoscere quando possono essere applicate in un problema.
+Per questo motivo è importante **conoscere il maggior numero possibile di strategie** e soprattutto imparare a riconoscere quando una certa tecnica può essere applicata.
 {{< /notice >}}
 
-<!-- ---
+Un buon punto di partenza è studiare materiali strutturati che presentino queste tecniche in modo chiaro e sistematico.
 
-#### 1. Dispense della prof.ssa Zangiacomi
+---
 
-Per approfondire alcuni di questi argomenti segnaliamo anche alcune dispense utilizzate negli **Stage Olimpici Territoriali di Treviso**, preparate dalla **prof.ssa Orietta Zangiacomi**.
+#### 1. Materiale della prof.ssa Zangiacomi
 
-I materiali trattano diversi temi utili per le gare, tra cui:
+Consigliamo di iniziare dalle dispense degli **Stage Olimpici Territoriali di Treviso**, preparate dalla **prof.ssa Orietta Zangiacomi**.
 
-- tecniche di dimostrazione matematica  
-- trasformazioni geometriche  
-- applicazioni della formula di Eulero e teoria dei grafi  
+Questi materiali introducono le **principali tecniche dimostrative** e la **struttura logica delle dimostrazioni matematiche**, con esempi e analisi degli errori più comuni.
 
-Puoi trovare tutte le dispense nella pagina dedicata:
-
-📄 [Materiale della prof.ssa Zangiacomi](/materiali/materiale_zangiacomi) -->
+📄 [Materiale della prof.ssa Zangiacomi](/materiali/materiale_zangiacomi)
 
 ---
 

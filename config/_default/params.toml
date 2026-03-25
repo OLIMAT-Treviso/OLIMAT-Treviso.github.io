@@ -55,7 +55,7 @@ link = "/authors/roberta-pulit"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["notizie","autori","argomenti","materiali","preparazione","risorse"]
+include_sections = ["notizie","authors","argomenti","materiali","preparazione","risorse","pages"]
 show_image = false
 show_description = true
 show_tags = true

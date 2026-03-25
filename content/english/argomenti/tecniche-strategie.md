@@ -96,13 +96,25 @@ The main tools involve:
 
 ### Where to start preparing
 
-Many of the topics in this section **are not part of standard school curricula**, but they appear very frequently in mathematics competitions.
+The topics in this section (proof techniques and logical strategies) **are rarely taught explicitly in standard school curricula**, yet they are essential in mathematics competitions.
 
-Unlike other areas (such as algebra or number theory), **there is no precise order in which to study them**: they are techniques and ideas that arise in many different contexts.
+Unlike content-based areas, these are **transversal tools**: the same technique may appear in algebra, number theory, combinatorics, or geometry.
 
 {{< notice "tip" >}}
-For this reason it is useful to **know as many of them as possible** and learn to recognize when they can be applied to a problem.
+For this reason, it is important to **become familiar with many different strategies** and, above all, to learn how to recognize when a certain method is appropriate.
 {{< /notice >}}
+
+A good starting point is to study structured material that presents these techniques in a clear and systematic way.
+
+---
+
+#### 1. Notes by Prof. Zangiacomi
+
+We recommend beginning with the lecture notes from the **Treviso Territorial Olympiad Training Stages**, prepared by **Prof. Orietta Zangiacomi**.
+
+These notes provide an introduction to the **main proof techniques** and to the **logical structure of mathematical arguments**, with many examples and discussion of common mistakes.
+
+📄 [Materials by Prof. Zangiacomi](/en/materiali/materiale_zangiacomi)
 
 ---
 
