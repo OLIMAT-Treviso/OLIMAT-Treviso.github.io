@@ -1,13 +1,13 @@
 ---
 title: Archetti Maria
-# email: orietta.zangiacomi@liceodavinci.tv
+# email: 
 image: "/image/maria-archetti_resized.png"
 description: 
 social:
   # - name: e-mail
   #   icon: fa-solid fa-envelope
-  #   link: mailto:orietta.zangiacomi@liceodavinci.tv 
+  #   link: 
 
 ---
 
-Teacher of Mathematics and Physics at the "Max Planck" Higher Education Institute in Villorba.
+Teacher of Mathematics and Physics at the "Max Plank" Higher Education Institute in Villorba.

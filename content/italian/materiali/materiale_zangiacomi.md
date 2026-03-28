@@ -34,3 +34,26 @@ Il materiale mostra come costruire una dimostrazione come **sequenza di implicaz
 Particolare attenzione è dedicata anche agli **schemi di ragionamento** (come *modus ponens* e *modus tollens*) e al loro utilizzo nelle dimostrazioni.
 
 ---
+
+#### Trasformazioni geometriche
+
+{{< button label="📑 Stage Olimpico 2025 ▸ Trasformazioni Geometriche" link="/pdf/stage_olimpico/Stage Olimpico 2025 - Trasformazioni geometriche.pdf" style="solid" >}}
+
+Questa dispensa approfondisce il ruolo delle **trasformazioni geometriche nel piano** come strumenti fondamentali per l’analisi e la risoluzione di problemi, in particolare in ambito olimpico.
+
+Una trasformazione viene introdotta come una **funzione che associa punti del piano ad altri punti**, fornendo un linguaggio unificante per descrivere configurazioni geometriche e le loro proprietà .
+
+Argomenti principali:
+
+* Definizione di trasformazione geometrica e interpretazione funzionale
+* Concetti di **punto unito** e **figura unita**
+* Nozione di **invariante** e proprietà invarianti rispetto a una trasformazione
+* Composizione di trasformazioni
+* Classificazione delle trasformazioni: **Isometrie** (traslazioni, rotazioni, simmetrie, identità), **Omotetie**, **Affinità**, **Proiettività**, **Omeomorfismi**
+* Studio dettagliato degli **invarianti** (distanze, angoli, parallelismo, allineamento)
+* Introduzione alle **similitudini** come composizione di isometrie e omotetie
+* Uso delle trasformazioni nelle **dimostrazioni geometriche**
+
+Il materiale mette in evidenza come le trasformazioni permettano di **semplificare configurazioni geometriche**, rendendo più trasparenti relazioni tra figure e facilitando la costruzione di dimostrazioni efficaci.
+
+Viene inoltre sottolineato che l’uso delle trasformazioni non è sempre automaticamente vantaggioso: saper **valutare quando applicarle** è parte integrante della competenza olimpica.

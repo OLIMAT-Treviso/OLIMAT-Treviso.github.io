@@ -34,3 +34,26 @@ The material shows how to construct a proof as a **sequence of logical implicati
 Particular attention is also given to **reasoning patterns** (such as *modus ponens* and *modus tollens*) and their use in proofs.
 
 ---
+
+#### Geometric Transformations
+
+{{< button label="📑 Olympic Stage 2025 ▸ Geometric Transformations" link="../pdf/stage_olimpico/Stage Olimpico 2025 - Trasformazioni geometriche.pdf" style="solid" >}}
+
+This handout explores the role of **geometric transformations in the plane** as fundamental tools for the analysis and solution of problems, particularly in an olympiad context.
+
+A transformation is introduced as a **function that maps points of the plane to other points**, providing a unifying framework for describing geometric configurations and their properties.
+
+Main topics:
+
+* Definition of a geometric transformation and its functional interpretation
+* Concepts of **fixed point** and **invariant figure**
+* Notion of **invariant** and properties preserved under a transformation
+* Composition of transformations
+* Classification of transformations: **Isometries** (translations, rotations, reflections, identity), **Homotheties**, **Affinities**, **Projectivities**, **Homeomorphisms**
+* Detailed study of **invariants** (distances, angles, parallelism, collinearity)
+* Introduction to **similarities** as compositions of isometries and homotheties
+* Use of transformations in **geometric proofs**
+
+The material highlights how transformations make it possible to **simplify geometric configurations**, clarifying relationships between figures and facilitating the construction of effective proofs.
+
+It is also emphasized that the use of transformations is not always automatically advantageous: knowing **when to apply them** is an integral part of olympiad-level expertise.

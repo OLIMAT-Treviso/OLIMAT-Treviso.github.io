@@ -31,7 +31,7 @@ Below you can find some practical guidance on how to use the site depending on y
 
 {{< accordion "Are you a student?" >}}
 
-- The recommended starting point is the **"Topics"** section, in particular the **[syllabus](/topics/syllabus)**.  
+- The recommended starting point is the **"Topics"** section, in particular the **[syllabus](/en/argomenti/syllabus)**.  
   Here you will find an overview of the main topics in the Mathematics Olympiads.  
   By entering the individual sections (for example **number theory**, **combinatorics**, **geometry**, etc.) you will find the fundamental topics and **links to the main resources useful for studying them**.
 
@@ -44,7 +44,7 @@ Below you can find some practical guidance on how to use the site depending on y
 - In the **Preparation** section you will find information about **training camps, training activities, and mathematics teams** organized in the area.  
   Team competitions are a project connected to the Mathematics Olympiads and represent an important opportunity for training and collaboration among students.
 
-- To stay updated on district activities, events, and announcements, consult the [**"News"**](/news/) section.
+- To stay updated on district activities, events, and announcements, consult the [**"News"**](/en/notizie/) section.
 
 {{< /accordion >}}
 
@@ -59,7 +59,7 @@ This section is intended for teachers who wish to **introduce or develop partici
 
 - The **"Materials"** section collects lecture notes, exercises, and other resources that can be used for **individual training or preparation activities** organized by the school.
 
-- Teachers interested in **contributing materials, organizing activities, or collaborating in the organization of training camps and initiatives** can contact the [**district coordinator**](/authors/roberta-pulit).
+- Teachers interested in **contributing materials, organizing activities, or collaborating in the organization of training camps and initiatives** can contact the [**district coordinator**](/en/authors/roberta-pulit).
 
 {{< /accordion >}}
 
@@ -83,4 +83,4 @@ If you cannot find the solution immediately, try for example to:
 - return to the problem after letting it “rest” for a while  
 
 Over time you will learn to recognize recurring patterns and typical strategies.  
-Practicing with **many different problems** is the best way to develop this intuition.
+Practising with **many different problems** is the best way to develop this intuition.
