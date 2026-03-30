@@ -6,7 +6,7 @@ description: ""
 draft: false
 ---
 
-## Lo Gnak
+<h1 align="center">Lo Gnak</h1>
 
 {{< image src="image/gnak_mascotte_enhanced.png" caption="Mascotte non ufficiale delle OLIMAT - Lo Gnak" alt="mascotte dello Gnak" height="" width="300" position="center" command="fill" option="q100" class="img-fluid" title="Lo Gnak"  webp="false" >}}
 
@@ -53,7 +53,7 @@ Quando un problema sembra impossibile, non bisogna preoccuparsi troppo. Di solit
 
 ---
 
-## L’arte de l’abbacho
+<h1 align="center">L’arte de l’abbacho</h1>
 
 {{< gallery dir="image/abbacho" class="" height="" width="500" webp="true" command="fit" option="" zoomable="true" >}}
 

@@ -6,7 +6,7 @@ description: ""
 draft: false
 ---
 
-## The Gnak
+<h1 align="center">The Gnak</h1>
 
 {{< image src="image/gnak_mascotte_enhanced.png" caption="Unofficial mascot of the Italian Mathematical Olympiad – The Gnak" alt="Gnak mascot" height="" width="300" position="center" command="fill" option="q100" class="img-fluid" title="The Gnak"  webp="false" >}}
 
@@ -53,7 +53,7 @@ When a problem seems impossible, there is no need to worry too much. Usually, it
 
 ---
 
-## The Art of the Abacus
+<h1 align="center">The Art of the Abacus</h1>
 
 {{< gallery dir="image/abbacho" class="" height="" width="500" webp="true" command="fit" option="" zoomable="true" >}}
 
